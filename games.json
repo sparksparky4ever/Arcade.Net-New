@@ -57,6 +57,11 @@
   {
     "id": "12",
     "title": "Tunnel Rush",
-    "url": "https://tunnelrushgame.io/game/tunnel-rush/"
+    "url": "/game/tunnel-rush/"
+  },
+  {
+    "id": "13",
+    "title": "Slope",
+    "url": "https://slopegame-online.com/play/slope/"
   }
 ]
