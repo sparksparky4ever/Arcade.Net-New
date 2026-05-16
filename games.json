@@ -55,8 +55,14 @@
   },
   {
     "id": "10",
-    "title": "Slime Dunk",
+    "title": "New Game",
     "thumbnail": "https://via.placeholder.com/150/000000/ffffff?text=Game+10",
     "url": "https://g.igroutka.ru/games/1499/jfWaPzZG3BMocpq6/2b063676-84e2-4921-9457-037ec87bcfbe/index.html"
+  },
+  {
+    "id": "11",
+    "title": "Bottle Hop",
+    "thumbnail": "https://via.placeholder.com/150/9370DB/ffffff?text=Bottle+Hop",
+    "url": "https://bottle-hop.1games.io/"
   }
 ]
