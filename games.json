@@ -66,12 +66,17 @@
   },
   {
     "id": "14",
-    "title": "Untitled Drifting Game",
+    "title": "Arcade Glide",
     "url": "https://arcade-glide.1games.io/"
   },
   {
     "id": "15",
     "title": "Offbrand Geometry Dash",
     "url": "https://play.fancade.com/5E13E17968940F5B"
+  },
+  {
+    "id": "16",
+    "title": "Stickman Hook",
+    "url": "https://ozgames.io/game/stickman-hook"
   }
 ]
