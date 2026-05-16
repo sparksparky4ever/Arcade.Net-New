@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "title": "Space Waves",
+    "thumbnail": "https://games.poki.com/450/2b347201-8315-4654-8e10-9cc727768e82.png",
+    "url": "https://crazygames.cdn.msnfun.com/9nm5764dbppg/v8/index.html?msstart_sdk_init=eyJwYXJlbnRPcmlnaW4iOiJodHRwczovL3d3dy5tc24uY29tIiwiY2xpZW50SWQiOiIzM0I0MTYwNUNCMDk2NjgzMTJBQzAxNUZDQTVFNjc0MSIsImxvY2FsZSI6ImVuLXVzIiwiZW50cnlQb2ludElkIjoiIiwic3dpdGNoR2FtZVBheWxvYWQiOnsic3dpdGNoZWRUbyI6IjlubTU3NjRkYnBwZyIsInZhbHVlIjp7fX19"
+  },
+  {
+    "id": "2",
+    "title": "Sling Tomb",
+    "thumbnail": "https://play-lh.googleusercontent.com/v8p0z1l5n3",
+    "url": "https://slingtomb.github.io/"
+  },
+  {
+    "id": "3",
+    "title": "Football King",
+    "thumbnail": "https://via.placeholder.com/150/228B22/ffffff?text=Football",
+    "url": "https://d23tskfudfp1j.cloudfront.net/games/2024/construct/226/football-king/index.html"
+  },
+  {
+    "id": "4",
+    "title": "1v1.lol",
+    "thumbnail": "https://via.placeholder.com/150/333333/ffffff?text=1v1.lol",
+    "url": "https://classroom4x.dev/1v1/"
+  },
+  {
+    "id": "5",
+    "title": "Car Drawing Game",
+    "thumbnail": "https://via.placeholder.com/150/FFD700/000000?text=Car+Draw",
+    "url": "https://ubgwtf.gitlab.io/car-drawing-game/"
+  },
+  {
+    "id": "6",
+    "title": "Real Flight Simulator",
+    "thumbnail": "https://via.placeholder.com/150/00008B/ffffff?text=Flight+Sim",
+    "url": "https://d11jzht7mj96rr.cloudfront.net/games/2023/unity2/real-flight-simulator/index-gg.html"
+  },
+  {
+    "id": "7",
+    "title": "Block Blast",
+    "thumbnail": "https://via.placeholder.com/150/FF4500/ffffff?text=Block+Blast",
+    "url": "https://d11jzht7mj96rr.cloudfront.net/games/2024/unity3/block-blast/index-gg.html"
+  },
+  {
+    "id": "8",
+    "title": "Russian Driver",
+    "thumbnail": "https://via.placeholder.com/150/8B0000/ffffff?text=Russian+Driver",
+    "url": "https://g1.igru.net/6/igra-gruzoviki-russkij-voditel-v-gorakh/"
+  },
+  {
+    "id": "9",
+    "title": "Drift Hunters",
+    "thumbnail": "https://via.placeholder.com/150/555555/ffffff?text=Drift+Hunters",
+    "url": "https://1games.io/game/drift-hunters/"
+  },
+  {
+    "id": "10",
+    "title": "Basket Random",
+    "thumbnail": "https://via.placeholder.com/150/orange/ffffff?text=Basket+Random",
+    "url": "https://html5.gamedistribution.com/bf1268dccb5d43e7970bb3edaa54afc8/?gd_sdk_referrer_url=https://basketrandom.io/basket-random"
+  }
+]
